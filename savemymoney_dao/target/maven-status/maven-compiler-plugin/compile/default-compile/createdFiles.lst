@@ -1,0 +1,5 @@
+org/mjglez/app/savemymoney/repository/SavingRepository.class
+org/mjglez/app/savemymoney/repository/ExpenseRepository.class
+org/mjglezr/app/savemymoney/entity/Incoming.class
+org/mjglezr/app/savemymoney/entity/Expense.class
+org/mjglezr/app/savemymoney/entity/Saving.class
